@@ -1,6 +1,6 @@
 
 
-## pydssps, use python to achieve multiple dpps methods
+## pydssps, use python to achieve multiple dssp methods
 
 ### usage
 change your sequence and pdb path in main.py, then run
